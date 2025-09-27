@@ -8,8 +8,6 @@ Day 3 HTML project focuses on creating a **complete web page**, including:
 - Interactive components: links, buttons, forms, tables  
 - Clean and maintainable code following best practices
 
-![Screenshot](https://via.placeholder.com/600x300.png?text=HTML+Day+3+Project+Screenshot)
-
 ---
 
 ## 🎯 Purpose
